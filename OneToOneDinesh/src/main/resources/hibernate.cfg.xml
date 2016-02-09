@@ -38,5 +38,8 @@
          <mapping class="com.sdnext.hibernate.tutorial.dto.UserDetails"/>
          <mapping class="com.sdnext.hibernate.tutorial.dto.Vehicle"/>
          
+         <mapping class="com.sdnext.hibernate.tutorial.dto.Employee"/>
+         <mapping class="com.sdnext.hibernate.tutorial.dto.EmployeeDetail"/>
+         
      </session-factory> 
  </hibernate-configuration>
